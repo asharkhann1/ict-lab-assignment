@@ -14,7 +14,7 @@ Since this is a static HTML project, you don't need to install any servers or co
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/asharkhann1/ict-lab-assignment.git](https://github.com/asharkhann1/ict-lab-assignment.git)
+   git clone https://github.com/asharkhann1/ict-lab-assignment.git
    ```
 2. **Navigate to the folder:**
 ```bash
